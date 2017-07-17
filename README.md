@@ -5,6 +5,8 @@ Angular4 with google map - [Angular Google Maps (AGM)](https://github.com/Sebast
 + AGM（Angular Google Map）
 + Google Map API
 
+## Blog
+[Angular4 - 不再踢鐵板的 Google Map 操作（AGM）](https://dotblogs.com.tw/explooosion/2017/07/17/212602)
 
 ## Install
 ```bash
@@ -19,9 +21,11 @@ cd an-agm
 npm install
 ```
 
-if you need install angular-cli
 ```bash
 npm install -g @angular/cli
 ```
 
+```bash
+ng serve
+```
 
