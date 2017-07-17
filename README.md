@@ -1,2 +1,2 @@
 # Angular-AGM
-Using Angular Google Maps (AGM)
+angular4 use google map
